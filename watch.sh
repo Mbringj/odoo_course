@@ -17,7 +17,8 @@ do_some_action() {
 	zip -r report.zip "./$1""$2"
 	gpg --batch --output  report.zip.gpg --passphrase mypassword --symmetric report.zip
 	mpack -s subject report.zip.gpg mbringjeremys@gmail.com
-	rm report.zip
+	cp report.zip.gpg /odoo_repo/report.zip.gpg
+ 	rm report.zip
 	rm report.zip.gpg
 }
 
