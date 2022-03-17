@@ -1,0 +1,9 @@
+pour utilise se script il faut dabord installer les dependance suivante:
+- inotify-tools avec la commande 
+
+sudo apt update
+sudo apt install inotify-tools
+
+- gpg tools pour le crypthage symetrique de donnee
+
+sudo apt install gnupg

@@ -1,0 +1,105 @@
+[Mon 24 Jan 2022 01:22:49 PM WAT]: the file main/1/file2.txt was created main/1/
+[Mon 24 Jan 2022 03:31:03 PM WAT]: the file main/1/file3.txt was created main/1/
+[Mon 24 Jan 2022 03:31:03 PM WAT]: the file main/1/file3.txt was created main/1/
+[Mon 24 Jan 2022 03:42:35 PM WAT]: the file main/3/file.txt was created main/3/
+[Mon 24 Jan 2022 03:42:35 PM WAT]: the file main/3/file.txt was created main/3/
+[Mon 24 Jan 2022 03:42:35 PM WAT]: the file main/3/file.txt was created main/3/
+[Mon 24 Jan 2022 03:47:11 PM WAT]: the file main/2/1/file.txt was created main/2/1/
+[Mon 24 Jan 2022 03:47:11 PM WAT]: the file main/2/1/file.txt was created main/2/1/
+[Mon 24 Jan 2022 03:47:11 PM WAT]: the file main/2/1/file.txt was created main/2/1/
+[Mon 24 Jan 2022 03:49:57 PM WAT]: the file main/3/file3.txt was created main/3/
+[Mon 24 Jan 2022 03:49:57 PM WAT]: the file main/3/file3.txt was created main/3/
+[Mon 24 Jan 2022 03:49:57 PM WAT]: the file main/3/file3.txt was created main/3/
+[Mon 24 Jan 2022 03:50:44 PM WAT]: the file main/3/file3.txt was modified
+[Mon 24 Jan 2022 03:50:44 PM WAT]: the file main/3/file3.txt was modified
+[Mon 24 Jan 2022 03:50:44 PM WAT]: the file main/3/file3.txt was modified
+[Mon 24 Jan 2022 03:50:44 PM WAT]: the file main/3/file3.txt was modified
+[Mon 24 Jan 2022 03:50:44 PM WAT]: the file main/3/file3.txt was modified
+[Mon 24 Jan 2022 03:50:44 PM WAT]: the file main/3/file3.txt was modified
+[Mon 24 Jan 2022 04:06:05 PM WAT]: the file main/2/1/file was created main/2/1/
+[Mon 24 Jan 2022 04:06:05 PM WAT]: the file main/2/1/file was created main/2/1/
+[Mon 24 Jan 2022 04:06:05 PM WAT]: the file main/2/1/file was created main/2/1/
+[Mon 24 Jan 2022 04:13:40 PM WAT]: the file main/3/file3.txt was created main/3/
+[Mon 24 Jan 2022 04:13:40 PM WAT]: the file main/3/file3.txt was created main/3/
+[Mon 24 Jan 2022 04:13:40 PM WAT]: the file main/3/file3.txt was created main/3/
+[Mon 24 Jan 2022 04:15:00 PM WAT]: the file main/1/pip was created main/1/
+[Mon 24 Jan 2022 04:15:00 PM WAT]: the file main/1/pip was created main/1/
+[Mon 24 Jan 2022 04:15:00 PM WAT]: the file main/1/pip was created main/1/
+[Mon 24 Jan 2022 04:15:08 PM WAT]: the file main/1/pip was modified
+[Mon 24 Jan 2022 04:15:08 PM WAT]: the file main/1/pip was modified
+[Mon 24 Jan 2022 04:15:08 PM WAT]: the file main/1/pip was modified
+[Mon 24 Jan 2022 04:15:08 PM WAT]: the file main/1/pip was modified
+[Mon 24 Jan 2022 04:15:08 PM WAT]: the file main/1/pip was modified
+[Mon 24 Jan 2022 04:15:08 PM WAT]: the file main/1/pip was modified
+[Mon 24 Jan 2022 04:16:59 PM WAT]: the file main/3/ci.txt was created main/3/
+[Mon 24 Jan 2022 04:16:59 PM WAT]: the file main/3/ci.txt was created main/3/
+[Mon 24 Jan 2022 04:16:59 PM WAT]: the file main/3/ci.txt was created main/3/
+[Mon 24 Jan 2022 04:17:04 PM WAT]: the file main/3/ci.txt was modified
+[Mon 24 Jan 2022 04:17:04 PM WAT]: the file main/3/ci.txt was modified
+[Mon 24 Jan 2022 04:17:04 PM WAT]: the file main/3/ci.txt was modified
+[Mon 24 Jan 2022 04:17:04 PM WAT]: the file main/3/ci.txt was modified
+[Mon 24 Jan 2022 04:19:29 PM WAT]: the file main/3/h.txt was created main/3/
+[Mon 24 Jan 2022 04:19:29 PM WAT]: the file main/3/h.txt was created main/3/
+[Mon 24 Jan 2022 04:19:29 PM WAT]: the file main/3/h.txt was created main/3/
+[Mon 24 Jan 2022 04:23:25 PM WAT]: the file main/1/file.txt was created main/1/
+[Mon 24 Jan 2022 04:23:25 PM WAT]: the file main/1/file.txt was created main/1/
+[Mon 24 Jan 2022 04:23:25 PM WAT]: the file main/1/file.txt was created main/1/
+[Mon 24 Jan 2022 04:26:51 PM WAT]: the file main/file.txt was created main/
+[Mon 24 Jan 2022 04:26:51 PM WAT]: the file main/file.txt was created main/
+[Mon 24 Jan 2022 04:26:51 PM WAT]: the file main/file.txt was created main/
+[Mon 24 Jan 2022 04:28:48 PM WAT]: the file main/1/fil1.txt was created main/1/
+[Mon 24 Jan 2022 04:28:48 PM WAT]: the file main/1/fil1.txt was created main/1/
+[Mon 24 Jan 2022 04:28:48 PM WAT]: the file main/1/fil1.txt was created main/1/
+[Mon 24 Jan 2022 04:30:00 PM WAT]: the file main/2/1/djo.txt was created main/2/1/
+[Mon 24 Jan 2022 04:30:00 PM WAT]: the file main/2/1/djo.txt was created main/2/1/
+[Mon 24 Jan 2022 04:30:00 PM WAT]: the file main/2/1/djo.txt was created main/2/1/
+[Mon 24 Jan 2022 04:31:23 PM WAT]: the file main/3/file.txt was created main/3/
+[Mon 24 Jan 2022 04:31:23 PM WAT]: the file main/3/file.txt was created main/3/
+[Mon 24 Jan 2022 04:31:23 PM WAT]: the file main/3/file.txt was created main/3/
+[Mon 24 Jan 2022 04:32:33 PM WAT]: the file main/1/files.txt was created main/1/
+[Mon 24 Jan 2022 04:32:33 PM WAT]: the file main/1/files.txt was created main/1/
+[Mon 24 Jan 2022 04:32:33 PM WAT]: the file main/1/files.txt was created main/1/
+[Mon 24 Jan 2022 04:36:34 PM WAT]: the file main/1/h was created main/1/
+[Mon 24 Jan 2022 04:36:34 PM WAT]: the file main/1/h was created main/1/
+[Mon 24 Jan 2022 04:36:34 PM WAT]: the file main/1/h was created main/1/
+[Mon 24 Jan 2022 04:39:18 PM WAT]: the file main/ho was created main/
+[Mon 24 Jan 2022 04:39:18 PM WAT]: the file main/ho was created main/
+[Mon 24 Jan 2022 04:39:18 PM WAT]: the file main/ho was created main/
+[Mon 24 Jan 2022 04:41:11 PM WAT]: the file main/whs was created main/
+[Mon 24 Jan 2022 04:41:11 PM WAT]: the file main/whs was created main/
+[Mon 24 Jan 2022 04:41:11 PM WAT]: the file ./main/whs was created ./main/
+[Mon 24 Jan 2022 04:54:24 PM WAT]: the file main/1/hed was created main/1/
+[Mon 24 Jan 2022 04:54:24 PM WAT]: the file ./main/1/hed was created ./main/1/
+[Mon 24 Jan 2022 04:54:24 PM WAT]: the file main/1/hed was created main/1/
+[Mon 24 Jan 2022 04:59:36 PM WAT]: the file main/1/file.txt was created main/1/
+[Mon 24 Jan 2022 04:59:36 PM WAT]: the file ./main/1/file.txt was created ./main/1/
+[Mon 24 Jan 2022 04:59:36 PM WAT]: the file main/1/file.txt was created main/1/
+[Mon 24 Jan 2022 05:01:57 PM WAT]: the file main/gon was created main/
+[Mon 24 Jan 2022 05:01:57 PM WAT]: the file main/gon was created main/
+[Mon 24 Jan 2022 05:01:57 PM WAT]: the file ./main/gon was created ./main/
+[Mon 24 Jan 2022 05:06:28 PM WAT]: the file main/hu was created main/
+[Mon 24 Jan 2022 05:06:28 PM WAT]: the file ./main/hu was created ./main/
+[Mon 24 Jan 2022 05:06:28 PM WAT]: the file main/hu was created main/
+[Mon 24 Jan 2022 05:07:58 PM WAT]: the file main/1/gone was created main/1/
+[Mon 24 Jan 2022 05:07:58 PM WAT]: the file ./main/1/gone was created ./main/1/
+[Mon 24 Jan 2022 05:07:58 PM WAT]: the file main/1/gone was created main/1/
+[Mon 24 Jan 2022 05:10:50 PM WAT]: the file main/oumar was created main/
+[Mon 24 Jan 2022 05:10:50 PM WAT]: the file main/oumar was created main/
+[Mon 24 Jan 2022 05:10:50 PM WAT]: the file ./main/oumar was created ./main/
+[Mon 24 Jan 2022 05:11:47 PM WAT]: the file main/omar was created main/
+[Mon 24 Jan 2022 05:11:47 PM WAT]: the file ./main/omar was created ./main/
+[Mon 24 Jan 2022 05:11:47 PM WAT]: the file main/omar was created main/
+[Mon 24 Jan 2022 05:14:07 PM WAT]: the file ./main/o was created ./main/
+[Mon 24 Jan 2022 05:14:07 PM WAT]: the file main/o was created main/
+[Mon 24 Jan 2022 05:14:07 PM WAT]: the file main/o was created main/
+[Mon 24 Jan 2022 05:14:57 PM WAT]: the file main/op was created main/
+[Mon 24 Jan 2022 05:14:57 PM WAT]: the file ./main/op was created ./main/
+[Mon 24 Jan 2022 05:14:57 PM WAT]: the file main/op was created main/
+[Mon 24 Jan 2022 05:20:37 PM WAT]: the file main/ola was created main/
+[Mon 24 Jan 2022 05:20:37 PM WAT]: the file main/ola was created main/
+[Mon 24 Jan 2022 05:20:37 PM WAT]: the file ./main/ola was created ./main/
+[Mon 24 Jan 2022 05:25:04 PM WAT]: the file main/h was created main/
+[Mon 24 Jan 2022 05:25:04 PM WAT]: the file ./main/h was created ./main/
+[Mon 24 Jan 2022 05:25:04 PM WAT]: the file main/h was created main/
+[Thu 17 Mar 2022 02:38:15 AM WAT]: the file ./main/3/hil was created ./main/3/
+[Thu 17 Mar 2022 02:39:46 AM WAT]: the file ./main/3/hello was created ./main/3/
